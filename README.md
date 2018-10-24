@@ -1,0 +1,1 @@
+Two unique computer vision methods for solving the MNIST task.  The first uses a "teacher" network with many trainable parameters to "teach" a much smaller network to read numbers.  This is a parameter reduction method that still keeps accuracy high.  The second uses evolutionary strategies to show how the MNIST task can be solved even without traditional differentiation.
